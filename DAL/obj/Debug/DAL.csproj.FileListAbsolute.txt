@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\DAL\bin\Debug\DAL.exe.config
+C:\Users\user\source\repos\DAL\bin\Debug\DAL.exe
+C:\Users\user\source\repos\DAL\bin\Debug\DAL.pdb
+C:\Users\user\source\repos\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DAL\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\user\source\repos\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DAL\obj\Debug\DAL.exe
+C:\Users\user\source\repos\DAL\obj\Debug\DAL.pdb
